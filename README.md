@@ -9,3 +9,9 @@ This project has been left in its original state intentionally, bugs and all. Si
 ## Building
 
 Building this game is by far its biggest flaw. I tried to clean up the build a little bit, but you still may need to run "pip install" for the necessary packages.
+
+## Gallery
+
+![GameJamL1](https://github.com/user-attachments/assets/7a582db4-d027-4081-afec-3c0789fce79c)
+![GameJamL2](https://github.com/user-attachments/assets/e49199ef-b00d-4ee5-a828-bb4d126254d2)
+![GameJamL3](https://github.com/user-attachments/assets/af7898b1-acc7-45b8-9002-c1f4b24dfee3)
